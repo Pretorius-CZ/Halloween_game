@@ -1,0 +1,1 @@
+Hra v Pythonu na základě Pygame, kde je účelem myší "trefit" pohybující se duchy s tím, že při každém zachycení se změní pohyb cíle. Pokud cíl uživatel mine, ubyde mu jeden z 5 životů. Cílem je dosáhnout co nejvyšší skóre. 
